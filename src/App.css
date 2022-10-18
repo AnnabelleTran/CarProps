@@ -1,0 +1,14 @@
+.car{
+  text-align: center;
+  background-color: #94879e;
+  margin: .5vw 10vw;
+  padding: 2vw 1vw;
+  border: solid .25vw black;
+}
+.carimage{
+  border: solid .25vw black;
+}
+
+.carheader{
+  font-size: 2vw;
+}
